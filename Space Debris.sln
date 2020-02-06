@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{2266DC65-7B59-4678-C68D-43CAD6A2E801}") = "Space Debris", "Assembly-CSharp.csproj", "{39819432-33BD-D180-1570-7F4CF25A0961}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39819432-33BD-D180-1570-7F4CF25A0961}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39819432-33BD-D180-1570-7F4CF25A0961}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39819432-33BD-D180-1570-7F4CF25A0961}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39819432-33BD-D180-1570-7F4CF25A0961}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
